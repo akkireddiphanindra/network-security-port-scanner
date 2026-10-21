@@ -20,6 +20,8 @@
 ║  MODE: AUTHORIZED SECURITY TESTING                   ║
 ╚══════════════════════════════════════════════════════╝
 
+
+
 # Network Security TCP Port Scanner
 
 A Python-based network security project for assessing TCP port exposure on authorized IPv4 targets. It demonstrates socket programming, input validation, connection timeouts, and CSV reporting.
