@@ -1,4 +1,25 @@
 
+╔══════════════════════════════════════════════════════╗
+║  root@scanner:~$ ./port_scanner                     ║
+║                                                      ║
+║  ████████╗ ██████╗██████╗   ██████╗ ██████╗ ███████╗║
+║     ██╔══╝██╔════╝██╔══██╗ ██╔═══██╗██╔══██╗██╔════╝║
+║     ██║   ██║     ██████╔╝ ██║   ██║██████╔╝█████╗  ║
+║     ██║   ██║     ██╔═══╝  ██║   ██║██╔══██╗██╔══╝  ║
+║     ██║   ╚██████╗██║      ╚██████╔╝██║  ██║███████╗║
+║     ╚═╝    ╚═════╝╚═╝       ╚═════╝ ╚═╝  ╚═╝╚══════╝║
+║                                                      ║
+║             [ TCP PORT SCANNER ]                    ║
+║                                                      ║
+║  [+] TARGET VALIDATION                               ║
+║  [+] TCP PORT DETECTION                              ║
+║  [+] CONNECTION TIMEOUTS                             ║
+║  [+] CSV SCAN REPORTS                                ║
+║                                                      ║
+║  STATUS: READY                                       ║
+║  MODE: AUTHORIZED SECURITY TESTING                   ║
+╚══════════════════════════════════════════════════════╝
+
 # Network Security TCP Port Scanner
 
 A Python-based network security project for assessing TCP port exposure on authorized IPv4 targets. It demonstrates socket programming, input validation, connection timeouts, and CSV reporting.
