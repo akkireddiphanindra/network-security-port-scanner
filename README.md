@@ -20,7 +20,9 @@
 ║  STATUS: READY                                       ║
 ║  MODE: AUTHORIZED SECURITY TESTING                   ║
 ╚══════════════════════════════════════════════════════╝
-![Uploading image.png…]()
+
+<img width="1536" height="1024" alt="Neon TCP Port Scanner Terminal" src="https://github.com/user-attachments/assets/505dfb8d-b1df-471a-861e-2fb9d34239d4" />
+
 
 
 
